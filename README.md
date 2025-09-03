@@ -1,23 +1,20 @@
 <h1 align="center">WELCOME TO MY PAGE 👋👋👋</h1>
-🌐My name is Bao Phuc. I am Students majoring in information technology engineering. I am interested in the following topics: Web development, data mining and machine learning.<br>🎯 Aspiring Backend Developer, eager to contribute to innovative projects and solve complex challenges.<br>🚀 Passionate about building:<br><br>Scalable and reliable back-end systems<br>Efficient and maintainable architectures<br>Seamless and secure integrations<br>Skilled in working with modern technologies such as:<br><br>Backend: Java, Py,NodeJs, SQL/NoSQL <br>Frontend: React, HTML, CSS, JavaScript, Bootstrap<br>Tools & Workflow: Git, Docker, Postman <br>Continuously improving my expertise in:<br><br>System design, API development, and microservices architecture<br>Performance optimization and security best practices<br>Staying adaptable with front-end technologies to deliver cohesive solutions<br>
+🌐My name is Pham Dat. I am Students majoring in information technology engineering. I am interested in the following topics: Web development, data mining and machine learning.<br>🎯 Aspiring Backend Developer, eager to contribute to innovative projects and solve complex challenges.<br>🚀 Passionate about building:<br><br>Scalable and reliable back-end systems<br>Efficient and maintainable architectures<br>Seamless and secure integrations<br>Skilled in working with modern technologies such as:<br><br>Backend: Java, Py,NodeJs, SQL/NoSQL <br>Frontend: React, HTML, CSS, JavaScript, Bootstrap<br>Tools & Workflow: Git, Docker, Postman <br>Continuously improving my expertise in:<br><br>System design, API development, and microservices architecture<br>Performance optimization and security best practices<br>Staying adaptable with front-end technologies to deliver cohesive solutions<br>
 <h2 align="center">📫 How to reach me:</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
  
-  <a href="https://www.facebook.com/baorphucs.pn/" target="blank">
+  <a href="https://www.facebook.com/pham.at.565288/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a>
-  <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a>
-  <a href="https://www.instagram.com/baorphucs.pn/" target="blank">
+  <a href="https://www.instagram.com/phdatt" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
-  <a href="doccode.2021@gmail.com" target="top">
+  <a href="datpham472004@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
