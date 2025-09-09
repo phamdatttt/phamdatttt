@@ -60,9 +60,12 @@
 
 
 
-
 # ✍️ My Slogan:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<blockquote>
+  <p><i>"Small progress every day leads to big results ✨"</i></p>
+  <p align="right">- phamdatttt</p>
+</blockquote>
 
 
 
