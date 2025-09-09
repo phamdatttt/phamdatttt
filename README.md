@@ -41,27 +41,22 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phamdatttt&theme=calm_pink&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phamdatttt&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="center">## Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<a href="https://github.com/baorphucs/Phone-sales-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baorphucs&repo=Phone-sales-website&theme=radical" />
-</a>
-
-<a href="https://github.com/baorphucs/WebFilm_ReactJS_NodeJS">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baorphucs&repo=WebFilm_ReactJS_NodeJS&theme=merko" />
-</a>
-
-<a href="https://github.com/baorphucs/TimHieu-va-hoc-hoi-LichSuVietNam">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baorphucs&repo=TimHieu-va-hoc-hoi-LichSuVietNam&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/baorphucs/PERSONAL-PORTFOLIO-WEBSITE">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baorphucs&repo=PERSONAL-PORTFOLIO-WEBSITE&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/baorphucs/Machine-Learning-Data-Sale">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baorphucs&repo=Machine-Learning-Data-Sale&theme=cobalt" />
-</a>
+<p align="center">
+  <a href="https://github.com/phamdatttt/Phone-sales-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamdatttt&repo=Phone-sales-website&theme=radical" />
+  </a>
+  <a href="https://github.com/phamdatttt/machine-learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamdatttt&repo=machine-learning&theme=merko" />
+  </a>
+  <a href="https://github.com/phamdatttt/Web-Nghe-Nh-c">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamdatttt&repo=Web-Nghe-Nh-c&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/phamdatttt/mini-ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamdatttt&repo=mini-ecommerce&theme=gruvbox" />
+  </a>
+</p>
 
 
 
